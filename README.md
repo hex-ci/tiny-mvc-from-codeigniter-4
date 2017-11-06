@@ -7,3 +7,4 @@
 1. Web 服务器的目录指向 public 目录。
 2. 控制器放在 application/Controllers 下，文件名和类名大写开头，详细规则请参考 CI4 的规则。
 3. 视图放在 application/Views 下，使用方式可以参考 CI4 的视图。
+4. 与 CI4 不一样的是这个视图支持视图继承。
